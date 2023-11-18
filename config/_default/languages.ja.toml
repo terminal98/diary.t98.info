@@ -17,7 +17,7 @@ title = "diary.t98.info"
   description = "My awesome website"
 
 [author]
-  name = "ほむりん"
+  # name = "ほむりん"
   # image = "img/author.jpg"
   headline = "I'm only human"
   bio = "よろしくお願いします"

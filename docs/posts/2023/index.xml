@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ほむりん on diary.t98.info</title>
-    <link>https://diary.t98.info/</link>
-    <description>Recent content in ほむりん on diary.t98.info</description>
+    <title>2023 on diary.t98.info</title>
+    <link>https://diary.t98.info/posts/2023/</link>
+    <description>Recent content in 2023 on diary.t98.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <atom:link href="https://diary.t98.info/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 02:21:37 +0900</lastBuildDate>
+    <atom:link href="https://diary.t98.info/posts/2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>日記をはじめた</title>
       <link>https://diary.t98.info/posts/2023/11/1901/</link>
