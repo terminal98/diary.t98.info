@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diary.t98.info/sitemap.xml
