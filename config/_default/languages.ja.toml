@@ -17,14 +17,14 @@ title = "Diary"
   description = "My awesome website"
 
 [author]
-  # name = "ほむりん"
+  name = "ほむりん"
   # image = "img/author.jpg"
-  headline = "I'm only human"
-  bio = "よろしくお願いします"
+  #headline = "I'm only human"
+  bio = "SNSのフォローよろしくお願いします"
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
-  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+      { amazon = "https://amzn.to/49LKMXF" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
   #   { codepen = "https://codepen.io/username" },
@@ -38,7 +38,7 @@ title = "Diary"
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
-  #   { instagram = "https://instagram.com/username" },
+      { instagram = "https://instagram.com/98tml" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
@@ -61,6 +61,6 @@ title = "Diary"
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
-     { x-twitter = "https://x.com/98tml" },
-  #   { youtube = "https://youtube.com/username" },
+      { x-twitter = "https://x.com/98tml" },
+      { youtube = "https://www.youtube.com/@98tml" },
   ]
