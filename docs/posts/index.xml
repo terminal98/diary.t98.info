@@ -4,9 +4,9 @@
     <title>Posts on Diary</title>
     <link>https://diary.t98.info/posts/</link>
     <description>Recent content in Posts on Diary</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Nov 2023 02:21:37 +0900</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="https://diary.t98.info/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
